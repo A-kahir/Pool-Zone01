@@ -18,5 +18,5 @@ This project explores various concepts and tasks related to Golang and Shell, si
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/zone01-oujda.git
-cd zone01-oujda
+git clone https://github.com/akahir/akahir-zone01.git
+cd akahir-zone01
