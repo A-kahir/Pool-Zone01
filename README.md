@@ -1,4 +1,3 @@
-# Pool-Zone01
 # Pool Experience in Zone01 Oujda
 
 This repository contains the work and experiences from the pool in Zone01 Oujda, focusing on learning and implementing Golang and Shell scripting.
